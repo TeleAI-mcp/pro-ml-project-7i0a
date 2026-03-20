@@ -1,2 +1,3 @@
-# pro-ml-project-7i0a
-Automated issue comment bot repository
+# Pro Ml Project 7I0A
+
+Automated issue comment bot repository.
